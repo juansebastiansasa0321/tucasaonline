@@ -105,3 +105,9 @@ div {
   }
 }
 
+@media (max-width: 424px) {
+  .btn {
+    display: none;
+  }
+}
+
